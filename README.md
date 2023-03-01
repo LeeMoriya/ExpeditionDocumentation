@@ -5,3 +5,9 @@ Expedition has a degree of native mod support for adding new Missions and Quests
 ## Contents
 1) [Setting up a new mod](https://github.com/LeeMoriya/ExpeditionDocumentation/blob/main/Mod%20Support.md#mod-setup)
 2) [Custom Missions](https://github.com/LeeMoriya/ExpeditionDocumentation/blob/main/Mod%20Support.md#custom-missions)
+
+### To-Do
+- Custom Quests
+- New Challenge Types
+- Adding New Perk Groups
+- Adding New Burden Groups
