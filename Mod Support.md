@@ -1,5 +1,3 @@
-Below you can find documentation that may be useful for modding the Expedition game-mode in Rain World: Downpour.
-
 ## Mod Setup
 To start, you will need to set up a new mod directory and folders for the content you plan to add, here's a step-by-step process:
 
