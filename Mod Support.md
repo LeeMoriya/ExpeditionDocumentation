@@ -25,12 +25,12 @@ The character that will be used for the Mission -- this uses the internal name f
 `White` `Yellow` `Red` `Gourmand` `Artificer` `Spear` `Rivulet` `Saint`
 
 ### Challenges
-This is where the actual Challenge data for the Mission is pulled from. Most Challenge strings follow the same format but have different variables depending on what data needs to be tracked for that Challenge. You can find an explanation of each Challenge type's data strings in the [section below.](https://github.com/LeeMoriya/ExpeditionDocumentation/new/main#challenge-data)
+This is where the actual Challenge data for the Mission is pulled from. Most Challenge strings follow the same format but have different variables depending on what data needs to be tracked for that Challenge. You can find an explanation of each Challenge type's data strings in the [section below.](https://github.com/LeeMoriya/ExpeditionDocumentation/blob/main/Mod%20Support.md#challenge-data)
 
 ### Requirements
 The requirements field can be used to force a certain Burden or Perk to be used for the Mission. When the Mission is selected, these requirements will also be enabled and cannot be turned off, however additional Burdens and Perks can be used if desired. If the player doesn't have a requirement unlocked, the Mission will not be selectable.
 
-You can find a list of the keys for each Perk and Burden in the [section below.](https://github.com/LeeMoriya/ExpeditionDocumentation/new/main#perks-and-burdens)
+You can find a list of the keys for each Perk and Burden in the [section below.](https://github.com/LeeMoriya/ExpeditionDocumentation/blob/main/Mod%20Support.md#perks-and-burdens)
 
 ### Den
 This is the internal name of the room that will be used as the starting location for the Mission. You can find desired starting shelters using something like the Warp mod.
